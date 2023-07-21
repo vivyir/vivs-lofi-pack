@@ -1,0 +1,85 @@
+[
+  {
+    "type": "playlist",
+    "playlists": [
+      {
+        "id": "title",
+        "shuffle": true,
+        "files": [
+          {
+            "file": "music/bvg_x_mondberg_-_waterfall.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/cosmic_koala_x_lucid_keys_x_dimension_32_-_noreia.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/danisogen_-_awakening.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/danisogen_-_healing_touch.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/goson_x_dreamfield_-_broken_angel.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/jhove_x_trxxshed_-_over_the_valley.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/kanisan_x_natasha_ghosh_-_times_up.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/kayou_-_passing_lights.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/kupla_-_owls_of_the_night.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/lilac_-_celestial.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/lilac_orchid.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/nothingtosay_-_dawn.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/purrple_cat_-_muse.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/sebastian_kamae_x_aylior_-_snooze.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/wys_x_sweet_medicine_-_practiced_compassion.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/kanisan_x_frad_-_fireflies.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/lawrence_walther_x_less_gravity_-_intersection.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/tibeauthetraveler_x_solo_-_goodnight.ogg",
+            "volume": 100
+          }
+        ]
+      }
+    ]
+  }
+]
