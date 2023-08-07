@@ -121,6 +121,34 @@
           {
             "file": "music/danisogen_-_place_ive_never_been_before.ogg",
             "volume": 100
+          },
+          {
+            "file": "music/iamalex_x_felty_-_myth.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/l_outlander_-_city_on_a_hill.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/no_spirit_-_7_suns.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/slo_loris_x_strehlow_-_aftercastle.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/tenno_-_the_seeker.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/yasumu_-_first_dates.ogg",
+            "volume": 100
+          },
+          {
+            "file": "music/yasumu_-_the_things_i_did.ogg",
+            "volume": 100
           }
         ]
       }
